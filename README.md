@@ -1,4 +1,3 @@
-# ---------------------------------------------------------------------------------------------------------------------
 # This is R code to produce IPCC AR6 WGI Figure 2.3
 # Creator: Gavin Foster, University of Southampton 
 # Contact: gavin.foster@noc.soton.ac.uk
