@@ -18,7 +18,7 @@
 # - Environment required to compile and run: NA
 #  ----------------------------------------------------------------------------------------------------
 #
-#  License:  Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/)
+#  License:  Apache 2.0
 #
 # ----------------------------------------------------------------------------------------------------
 # How to cite: https://doi.org/10.5281/zenodo.6355728
